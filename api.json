@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": "5846",
+      "author": "Karl Harvey",
+      "title": "Clavier Dvorak",
+      "image": "https://randomuser.me/api/portraits/men/70.jpg",
+      "category": "Science",
+      "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "id": "116d",
+      "author": "Karl Harvey",
+      "title": "Clavier Dvorak",
+      "image": "https://randomuser.me/api/portraits/men/70.jpg",
+      "category": "Science",
+      "content": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "id": "76eb",
+      "author": "Léo Messi",
+      "title": "Le GOAT du Football",
+      "image": "",
+      "category": "Science",
+      "content": "dqdqdqd"
+    }
+  ]
+}
